@@ -1,0 +1,84 @@
+
+# System and User Config Files
+
+.VirtualBox/
+.aws/
+.bash_history
+.docker/
+.gitconfig
+.idlerc/
+.ipython/
+.lesshst
+.matplotlib/
+.node_repl_history
+.packettracer/
+.spyder-py3/
+.ssh/
+.viminfo
+.vscode/
+AppData/
+NTUSER.DAT*
+ntuser.dat.*
+ntuser.ini
+
+
+# Windows System & Default Folders
+
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+VirtualBox VMs/
+
+# Developer Tools / Temporary Folders
+node_modules/
+__pycache__/
+.vscode/
+.vscode-remote-wsl/
+Jedi/
+*.log
+*.tmp
+*.swp
+*.bak
+*.pyc
+.DS_Store
+
+# Personal or Example Projects 
+app_tracker/
+boots.html
+bs.html
+demo.py
+finance-tracker/
+finance_tracker/
+game.py
+gayu-1523/
+host/
+import boto3.py
+june.txt
+learn_docker/
+mail.py
+mintty.*.png
+my-app/
+my-react-app/
+name.py
+new/
+package-lock.json
+package.json
+pro/
+test.py
+text.py
+webdev/
+
+
+# General Ignore Rules
+# Ignore all hidden files except .gitignore
+.*
+!.gitignore
